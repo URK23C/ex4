@@ -1,2 +1,2 @@
-# INCLUDE <STDIO.H>
-PRINT("IT'S DONE")
+# include <stdio.h>
+print("IT'S DONE")
